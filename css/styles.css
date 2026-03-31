@@ -1,0 +1,11 @@
+.header {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+#about, #contact {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
